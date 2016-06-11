@@ -1,0 +1,27 @@
+{
+  "name": "pinetree",
+  "version": "0.0.0",
+  "description": "Promise utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require intelli-espower-loader"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "author": "xl1",
+  "license": "MIT",
+  "devDependencies": {
+    "intelli-espower-loader": "^1.0.1",
+    "mocha": "^2.5.3",
+    "power-assert": "^1.4.1"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xl1/pinetree.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xl1/pinetree/issues"
+  }
+}
